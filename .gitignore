@@ -38,4 +38,6 @@ sysinfo.txt
 *.unitypackage
 
 # Windows
+https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
 # Mac
+https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
